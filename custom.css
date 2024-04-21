@@ -19,7 +19,6 @@ body {
 }
 
 .fadeIn {
-  /*animation-name: fadeIn;*/
   animation: fadeIn 1s both;
 }
 
@@ -29,10 +28,4 @@ body {
   text-align: center;
   width: 100%;
   margin: 0 auto;
-
-}
-
-.animated {
-  /*animation-duration: 1s;*/
-  /*animation-fill-mode: both;*/
 }

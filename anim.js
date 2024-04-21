@@ -20,8 +20,6 @@ function fadeIn(){
     }
 };
 
-
-
 // document.querySelector(".content").onclick=()=>{
     document.querySelector("#heart").hidden=false
     document.querySelector("body").style.backgroundColor="#542246"
